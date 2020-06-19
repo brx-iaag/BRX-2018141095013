@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 欢迎来到我的博客
+互联网是近代最伟大的发明之一。它突破了国家和地域的界限，改变着世界政治、经济、文化、生活的方式，把世界连接在了一起。它已经成为人类生活中不可或缺的重要组成部分，但同时也带来许多意想不到、需要解决的问题。如何解决这些问题，即如何进行互联网治理，已经成为全球诸多国家和地区政府和社会关注的重大课题，也是我们这门课需要探讨和学习的问题。
 
-You can use the [editor on GitHub](https://github.com/brx-iaag/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 课堂讨论
+### 1. 什么是互联网精神？
+● 讨论：开放、平等、快速、分享、协作
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. 什么是互联网、互联网+、互联网思维？
+● 讨论：一句话表述你对互联网上述认识
 
-### Markdown
+### 3. 什么是Infodemic？
+● 讨论：从信息角度表述你对Infodemic信息疫情，信息恐慌的认识，如何治理呢？会不会成为一个新的领域？研究方向会有哪些？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 4. 什么是污名化Stigma？
+● 讨论：从信息角度表述你对污名化的认识，如何治理呢？
 
-```markdown
-Syntax highlighted code block
+### 5. 国际疫情中的信息化，中国老百姓需要什么样的信息？
+● 讨论：从信息角度表述你对疫情信息国际化的认识？你认为现阶段，中国老百姓需要什么样的信息？华人需要什么样的信息？国际上需要什么样的中国方案？
 
-# Header 1
-## Header 2
-### Header 3
+### 6. 你认为新媒体时代的网站应该是一种什么样的存在？
+● 讨论：你对网站的认识？ 新媒体的视角，网站？社交媒体的背景，网站怎么生存？
 
-- Bulleted
-- List
+### 7. 什么是分布式？分布式信息系统？为什么要分布式？你知道的分布式有哪些知名信息系统？
+● 讨论：你对分布式的认识？有哪些知名的分布式系统和理念？
 
-1. Numbered
-2. List
+### 8. 什么是信息的可视化？你对信息可视化的认识？为什么要信息的可视化？可视化的重要地位？可视化的工具？可视化的手段？
+● 讨论：你对分可视化的认识？有哪些知名的分布式系统和理念？
 
-**Bold** and _Italic_ and `Code` text
+### 9. 什么是互联网治理和信息治理？为什么要治理？治理的手段有哪些？作业合作给了我们什么启示？
+● 讨论：你对互联网治理和信息治理的认识？
 
-[Link](url) and ![Image](src)
-```
+## 课后作业
+[✔] 社区信息化方案     
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[✔] infodemic治理
 
-### Jekyll Themes
+[✔] 当政府遇上互联网   
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brx-iaag/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[✔] git理解和学习
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+......
