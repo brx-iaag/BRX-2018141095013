@@ -57,13 +57,11 @@
 ......
 
 ## R学习资源
-|相关学习资源|     |
-|--------|-----:| 
-|期刊|[R Journal](https://journal.r-project.org/)|  
-|图书|[R Bookdown](https://bookdown.org/home/)|  
-|博客|[R Bloggers](https://www.r-bloggers.com/)|
-|教程|[W3CSchool](https://www.w3cschool.cn/r/r_overview.html)|
-|视频|[R语言基础](https://mooc1.chaoxing.com/course/97619275.html?_from_=208815890_17811461_117047994_ad050eece3f6dddeb97c04d1c57108ef)|
+●期刊[R Journal](https://journal.r-project.org/)|  
+●图书[R Bookdown](https://bookdown.org/home/)|  
+●博客[R Bloggers](https://www.r-bloggers.com/)|
+●教程[W3CSchool](https://www.w3cschool.cn/r/r_overview.html)|
+●视频[R语言基础](https://mooc1.chaoxing.com/course/97619275.html?_from_=208815890_17811461_117047994_ad050eece3f6dddeb97c04d1c57108ef)|
 
 ## R语言学习
 ### R 简介
